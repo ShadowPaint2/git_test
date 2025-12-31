@@ -1,0 +1,8 @@
+nota1=int (input ("Ingrese primera nota:"))
+nota2=int (input ("ingrese segunda nota:"))
+nota3=int (input ("ingrese tercera nota:"))
+suma=nota1+nota2+nota3
+prom=suma/3
+print (prom)
+
+
